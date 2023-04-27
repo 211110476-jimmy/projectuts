@@ -1,3 +1,5 @@
 1. sudah dibuat page untuk forgot password dan reset password (jimmy)
 
 2. telah berhasil membuat page login dan signup (erwin)
+
+3. memisahkan masing-masing komponen dari page login, signup, reset password, dan forgot password untuk modularity (kenny)
