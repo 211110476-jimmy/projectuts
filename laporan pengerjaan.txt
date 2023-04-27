@@ -1,0 +1,1 @@
+1. sudah dibuat page untuk forgot password dan reset password (jimmy)
