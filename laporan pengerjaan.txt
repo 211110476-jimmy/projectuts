@@ -3,3 +3,5 @@
 2. telah berhasil membuat page login dan signup (erwin)
 
 3. memisahkan masing-masing komponen dari page login, signup, reset password, dan forgot password untuk modularity (kenny)
+
+4. menambah switch button, checkbox dan chips yang nantinya akan dibutuhkan untuk interaksi (jimmy)
