@@ -9,3 +9,5 @@
 5. menambahkan page "Home" dan menambahkan fitur carousel (erwin)
 
 6. menambahkan side menu untuk Home page (Kenny)
+
+7. menyelesaikan Sprint 1 yaitu pada Flow/alur pada page (Bersama sama)
