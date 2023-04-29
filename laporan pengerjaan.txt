@@ -7,3 +7,5 @@
 4. menambah switch button, checkbox dan chips yang nantinya akan dibutuhkan untuk interaksi (jimmy)
 
 5. menambahkan page "Home" dan menambahkan fitur carousel (erwin)
+
+6. menambahkan side menu untuk Home page (Kenny)
