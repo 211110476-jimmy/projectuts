@@ -11,3 +11,5 @@
 6. menambahkan side menu untuk Home page (Kenny)
 
 7. menyelesaikan Sprint 1 yaitu pada Flow/alur pada page (Bersama sama)
+
+8. menambah beberapa gambar dan mengisi home page (Jimmy)
