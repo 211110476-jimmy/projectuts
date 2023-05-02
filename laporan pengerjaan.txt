@@ -17,3 +17,5 @@
 9. menambahkan fitur melacak status pesanan (Kenny)
 
 10. menambah page history bagian sebelum login (jimmy)
+
+11. menambah page Promo yang dapat di sort berdasarkan jarak dan rating (erwin)
