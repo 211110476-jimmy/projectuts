@@ -19,3 +19,5 @@
 10. menambah page history bagian sebelum login (jimmy)
 
 11. menambah page Promo yang dapat di sort berdasarkan jarak dan rating (erwin)
+
+12. menambah fitur pengaturan notifikasi (kenny)
