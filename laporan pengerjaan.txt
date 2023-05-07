@@ -25,3 +25,5 @@
 13. mengatur prototype dan menambah page baru (jimmy)
 
 14. menambahkan page other apps dan mengatur flow prototype (erwin)
+
+15. menambahkan beberapa informasi kedalam dokumen (erwin)
