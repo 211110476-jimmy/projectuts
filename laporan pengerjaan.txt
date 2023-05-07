@@ -23,3 +23,5 @@
 12. menambah fitur pengaturan notifikasi (kenny)
 
 13. mengatur prototype dan menambah page baru (jimmy)
+
+14. menambahkan page other apps dan mengatur flow prototype (erwin)
