@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       // home: MainPage(),
-      home: welcomeScreen(),
+      // home: welcomeScreen(),
     );
   }
 }
